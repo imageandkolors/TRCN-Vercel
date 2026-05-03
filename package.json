@@ -1,0 +1,24 @@
+{
+  "name": "trcn-cbt-pwa",
+  "version": "1.0.0",
+  "description": "TRCN CBT Practice Engine - Progressive Web App",
+  "private": true,
+  "keywords": [
+    "pwa",
+    "progressive-web-app",
+    "trcn",
+    "cbt",
+    "exam-preparation",
+    "education"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx http-server -p 3000 --cors",
+    "build": "echo 'No build step needed'",
+    "start": "echo 'Static PWA ready for deployment'"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
